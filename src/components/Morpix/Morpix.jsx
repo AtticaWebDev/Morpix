@@ -1,7 +1,7 @@
 import { useState, useRef } from "react";
 import "./Morpix.css";
-import circle_icon from "../assets/circle.svg";
-import cross_icon from "../assets/cross.svg";
+import circle_icon from "../assets/circle.png";
+import cross_icon from "../assets/cross.png";
 
 let data = ["", "", "", "", "", "", "", "", ""];
 
